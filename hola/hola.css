@@ -1,0 +1,173 @@
+body {
+	background: #C2C1C2;
+	margin: 0;
+}
+
+.cuadro {
+	background: #40798C;
+	width: 100%;
+	height: 200px;
+}
+
+.titulo {
+	color: #C2C1C2;
+	font-family: sans-serif;
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 50px;
+}
+
+.subtitulo {
+	color: #C2C1C2;
+	font-family: sans-serif;
+	position: absolute;
+	margin-left: 435px;
+	margin-top: 80px;
+}
+
+.buscador {
+	position: absolute;
+	top: 75px;
+	left: 1020px;
+	transform: translate(-25%, -25%);
+}
+
+.caja {
+	width: 500px;
+	height: 300px;
+	background: white;
+	margin: 50px;
+	position: relative;
+	display: inline-block;
+	float: left;
+
+}
+
+
+.franja1 {
+	width: 325px;
+	height: 150px;
+	background: #fc3c2c;
+	position: absolute;
+	left: 35%;
+}
+
+.franja2 {
+	width: 325px;
+	height: 150px;
+	background: #047c34;
+	position: absolute;
+	left: 35%;
+	top: 50%;
+}
+
+.ma {
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 100%;
+}
+
+
+.circulo {
+	width: 190px;
+	height: 190px;
+	background: #bb042c;
+	border-radius: 100%;
+	position: absolute;
+	top: 18%;
+	left: 31%;
+}
+
+.ja {
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 100%;
+}
+
+
+.franja3 {
+	width: 190px;
+	height: 150px;
+	background: #0635ac;
+
+}
+
+.franja4 {
+	width: 500px;
+	height: 150px;
+	background: #d42c14;
+	
+}
+
+.simb {
+	width: 110px;
+	height: 110px;
+	position: absolute;
+	left: 7%;
+	margin-top: 3%;
+	filter: invert(1);
+}
+
+.chi {
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+
+#suecia {
+	background: #046cac;
+}
+
+.franja5 {
+	width: 60px;
+	height: 300px;
+	background: #fccc04;
+	position: absolute;
+	left: 30%;
+}
+
+.franja6 {
+	width: 500px;
+	height: 60px;
+	background: #fccc04;
+	position: absolute;
+	top: 40%;
+}
+
+.sue {
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 100%;
+}
+
+
+#portugal {
+	background: #fc0404;
+}
+
+.franja7 {
+	width: 185px;
+	height: 300px;
+	background: #046304;
+}
+
+.simb2 {
+	width: 140px;
+	height: 140px;
+	position: absolute;
+	left: 23%;
+	top: 28%;
+}
+
+.por {
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+}
